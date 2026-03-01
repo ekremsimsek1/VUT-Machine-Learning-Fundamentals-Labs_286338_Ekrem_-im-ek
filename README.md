@@ -1,2 +1,2 @@
-# VUT-Machine-Learning-Fundamentals-Labs_286338_Ekrem_Simsek
+# MPA-MLF repository 2026
 VUT-Machine-Learning-Fundamentals-Labs
